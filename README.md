@@ -15,9 +15,7 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
 ## Topics
 - Arrays
     - Index Access
-    - Insertion Operation
-    - Delation Operation
-    - Search Operation
+    - Operations (Insertion, Deletion and Search)
     - Rotate Arrays
     - Merging Two Arrays
     - Finding Duplicates in a Array
@@ -27,10 +25,7 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
         - Maximum Subarray
 - Matrix
     - Matrix 2D
-    - Summation of Matrices
-    - Subtration of Matrices
-    - Multiplication of Matrices
-    - Search Operation of a Matrix
+    - Operations (Summation, Subtration, Multiplication and Search)
     - Matrix Transposition
     - Verify if a Matrix is Simmetric
     - Inverse Matrix
