@@ -18,8 +18,8 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
     - [Operations](Implementations/Arrays/operations.cpp) (Insertion, Deletion and Search)
     - [Rotate Arrays](Implementations/Arrays/rotate_array.cpp)
     - [Merging Two Arrays](Implementations/Arrays/merging_arrays.cpp)
-    - Finding Duplicates in a Array
-    - SubArray with Max Sum (Kanade's Algorithm)
+    - [Finding Duplicates in a Array](Implementations/Arrays/find_duplicated.cpp)
+    - [SubArray with Max Sum (Kadane's Algorithm)](Implementations/Arrays/kadane_algo.cpp)
     - LeetCode Exercises
         - Two Sum
         - Maximum Subarray
