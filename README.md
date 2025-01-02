@@ -15,7 +15,7 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
 ## Topics
 - Arrays
     - [Index Access](Implementations/Arrays/index_access.cpp)
-    - [Operations](Implementations/Arrays/operations.cpp) (Insertion, Deletion and Search)
+    - [Operations (Insertion, Deletion and Search)](Implementations/Arrays/operations.cpp) 
     - [Rotate Arrays](Implementations/Arrays/rotate_array.cpp)
     - [Merging Two Arrays](Implementations/Arrays/merging_arrays.cpp)
     - [Finding Duplicates in a Array](Implementations/Arrays/find_duplicated.cpp)
