@@ -21,7 +21,7 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
     - [Finding Duplicates in a Array](Implementations/Arrays/find_duplicated.cpp)
     - [SubArray with Max Sum (Kadane's Algorithm)](Implementations/Arrays/kadane_algo.cpp)
     - LeetCode Exercises
-        - Two Sum
+        - Two Sum(Implementations/Arrays/LeetCode/two_sum.cpp)
         - Maximum Subarray
 - Matrix
     - Matrix 2D
