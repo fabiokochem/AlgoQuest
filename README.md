@@ -113,10 +113,9 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
 - Red Black Tree
     - Implementation 
 - Graphs
-    - Implementations
-        - Adjacency Matrix Implementation
-        - Adjacency List Implementation 
-        - Edge List Representation
+    - Adjacency Matrix Implementation
+    - Adjacency List Implementation 
+    - Edge List Representation
     - Breadth-First Search (BFS)
     - Depth-First Search (DFS)
     - Dijkstra's Algorithm
