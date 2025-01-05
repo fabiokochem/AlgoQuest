@@ -1,4 +1,4 @@
-# Complex Algorithms (Algorithms and Data Structure)
+# AlgoQuest (Algorithms and Data Structure)
 
 Hello! You're welcome :) (If you're Brazilian and prefer to read this in Portuguese... just scroll down, but you should practice your english so don't do that!!)
 
