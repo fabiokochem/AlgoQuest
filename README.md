@@ -24,7 +24,7 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
         - [Two Sum](Implementations/Arrays/LeetCode/two_sum.cpp)
         - [Maximum Subarray](Implementations/Arrays/LeetCode/max_subarray.cpp)
 - Matrix
-    - Matrix 2D
+    - [Matrix 2D](Implementations/Matrix/2d_matrix.cpp)
     - Operations (Summation, Subtration, Multiplication and Search)
     - Matrix Transposition
     - Verify if a Matrix is Simmetric
