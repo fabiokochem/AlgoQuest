@@ -1,4 +1,4 @@
-# Complex Algorithms (Algorithms and Data Structure)
+# AlgoQuest (Algorithms and Data Structure)
 
 Hello! You're welcome :) (If you're Brazilian and prefer to read this in Portuguese... just scroll down, but you should practice your english so don't do that!!)
 
@@ -113,10 +113,9 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
 - Red Black Tree
     - Implementation 
 - Graphs
-    - Implementations
-        - Adjacency Matrix Implementation
-        - Adjacency List Implementation 
-        - Edge List Representation
+    - Adjacency Matrix Implementation
+    - Adjacency List Implementation 
+    - Edge List Representation
     - Breadth-First Search (BFS)
     - Depth-First Search (DFS)
     - Dijkstra's Algorithm
