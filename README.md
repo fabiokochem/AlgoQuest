@@ -26,10 +26,9 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
 - Matrix
     - [Matrix 2D](Implementations/Matrix/2d_matrix.cpp)
     - [Operations (Summation, Subtration, Multiplication and Search)](Implementations/Matrix/Operations/)
-    - Matrix Transposition
-    - Verify if a Matrix is Simmetric
-    - Inverse Matrix
-    - Matrix Diagonal
+    - [Matrix Transposition](Implementations/Matrix/transposition.cpp)
+    - [Verify if a Matrix is Simmetric](Implementations/Matrix/verify_simmetry.cpp)
+    - [Matrix Diagonal](Implementations/Matrix/matrix_diagonal.cpp)
     - LeetCode Exercises
         - Spiral Matrix 
 - Sorts

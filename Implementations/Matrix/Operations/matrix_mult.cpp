@@ -2,8 +2,6 @@
 #include <vector>
 
 using std::vector;
-using std::cout;
-using std::endl;
 
 /*
 Matrix multiplication involves multiplying two matrices A and B to produce a resultant matrix C.

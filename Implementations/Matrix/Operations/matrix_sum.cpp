@@ -1,9 +1,4 @@
 #include <iostream>
-#include <vector>
-
-using std::vector;
-using std::cout;
-using std::endl;
 
 /*
 The sum operation in a matrix can involve:
