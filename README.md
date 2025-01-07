@@ -8,7 +8,7 @@ My intention here is to share everything I can related to Data Structures, Algor
 
 ## Metodology
 
-Basically, I will provide a simple review of how I implemented each Data Structure or how was my logic solving some famous problems related to the Data Structure being analyzed. So you'll find my code, accompanied by a full explanation of my logic. Afterward, I’ll recommend some exercises related to the topic. These exercises will most likely be from LeetCode. In which solution made by me I will let the complexity and explain why that's the complexity of my code, and if I could improve somehow.
+Basically, I will provide a simple review of how I implemented each Data Structure or how was my logic solving some famous problems related to the Data Structure being analyzed. So you'll find my code, accompanied by a full explanation of my logic.
 
 My biggest advice for you, if you want to excel in algorithms, is: stay active on LeetCode! Consistency and discipline will teach you so much, not just in coding but in life as well. :D
 
@@ -20,17 +20,12 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
     - [Merging Two Arrays](Implementations/Arrays/merging_arrays.cpp)
     - [Finding Duplicates in a Array](Implementations/Arrays/find_duplicated.cpp)
     - [SubArray with Max Sum (Kadane's Algorithm)](Implementations/Arrays/kadane_algo.cpp)
-    - LeetCode Exercises
-        - [Two Sum](Implementations/Arrays/LeetCode/two_sum.cpp)
-        - [Maximum Subarray](Implementations/Arrays/LeetCode/max_subarray.cpp)
 - Matrix
     - [Matrix 2D](Implementations/Matrix/2d_matrix.cpp)
     - [Operations (Summation, Subtration, Multiplication and Search)](Implementations/Matrix/Operations/)
     - [Matrix Transposition](Implementations/Matrix/transposition.cpp)
     - [Verify if a Matrix is Simmetric](Implementations/Matrix/verify_simmetry.cpp)
     - [Matrix Diagonal](Implementations/Matrix/matrix_diagonal.cpp)
-    - LeetCode Exercises
-        - Spiral Matrix 
 - Sorts
     - Stable Sort vs Unstable Sort
     - Bubble Sort
@@ -51,8 +46,6 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
     - KMR (Karp, Miller and Rosenberg)
     - Dictionaries
     - Edit Distance
-    - LeetCode Exercises
-        - Longest Palindromic Substring
 - Linked Lists
     - Singly Linked List
         - Insertion Operation
@@ -74,35 +67,25 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
     - LIFO Concept
     - Array Implementation
     - Linked List Implementation
-    - LeetCode Exercises
-        - Valid Parentheses
 - Queue
     - FIFO Concept
     - Circular Queue
     - Deque
     - Priority Queue
     - Queue Implementation using two stacks
-    - LeetCode Exercises
-        - Design Circular Queue
 - Heap
     - Min-Heap
     - Max-Heap
     - Heapify Operation
     - Binary Heap
-    - LeetCode Exercises
-        - Top K Frequent Elements
 - Hashing
     - Hash Functions
     - Collision Handling Strategies
-    - LeetCode Exercises
-        - Longest Substring Without Repeating Characters
 - Binary and Binary Search Tree
     - Binary Trees
     - Complete Binary Trees
     - Binary Search Trees (BST's)
     - Traversals
-    - LeetCode Exercises
-        - Validate Binary Search Tree
 - AVL Tree
     - Implementation
     - Rotations
@@ -149,16 +132,12 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
     - Fenwick Tree
     - Segment Tree
     - Trie
-    - LeetCode Exercises
-        - Longest Common Prefix
 - Criptography
     - MD5
     - SHA-256
     - SHA-512
 - Greedy Algorithms
     - Local optimum strategies for global solutions
-    - LeetCode Exercises
-        - Assign Cookies 
 - Dynamic Programming
     - Recurrence relations
     - Overlapping subproblems 
