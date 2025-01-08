@@ -27,16 +27,16 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
     - [Verify if a Matrix is Simmetric](Implementations/Matrix/verify_simmetry.cpp)
     - [Matrix Diagonal](Implementations/Matrix/matrix_diagonal.cpp)
 - Sorts
-    - Stable Sort vs Unstable Sort
-    - Bubble Sort
-    - Selection Sort
-    - Insertion Sort
-    - Quick Sort
-    - Merge Sort
-    - Heap Sort
-    - Counting Sort
-    - Radix Sort
-    - Bucket Sort 
+    - [Stable Sort vs Unstable Sort](Implementations/Sorts/stable_sorts.cpp)
+    - [Bubble Sort](Implementations/Sorts/bubble_sort.cpp)
+    - [Selection Sort](Implementations/Sorts/selection_sort.cpp)
+    - [Insertion Sort](Implementations/Sorts/insertion_sort.cpp)
+    - [Quick Sort](Implementations/Sorts/quick_sort.cpp)
+    - [Merge Sort](Implementations/Sorts/merge_sort.cpp)
+    - [Heap Sort](Implementations/Sorts/heap_sort.cpp)
+    - [Counting Sort](Implementations/Sorts/counting_sort.cpp)
+    - [Radix Sort](Implementations/Sorts/radix_sort.cpp)
+    - [Bucket Sort](Implementations/Sorts/bucket_sort.cpp)
 - Manipulating Strings
     - Imutable Strings
     - Search in Strings
