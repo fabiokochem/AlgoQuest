@@ -38,9 +38,9 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
     - [Radix Sort](Implementations/Sorts/radix_sort.cpp)
     - [Bucket Sort](Implementations/Sorts/bucket_sort.cpp)
 - Manipulating Strings
-    - Imutable Strings
-    - Search in Strings
-    - Naivy Algorithms
+    - [Imutable Strings](Implementations/Strings/imutable_strings.cpp)
+    - [Search in Strings](Implementations/Strings/imutable_strings.cpp)
+    - [Naive Algorithms](Implementations/Strings/imutable_strings.cpp)
     - Finite Automata
     - KMP (Karp, Miller and Pratt)
     - KMR (Karp, Miller and Rosenberg)
