@@ -6,7 +6,7 @@ using std::cout;
 using std::endl;
 
 /*
-Searchins in strings involves finding a substring or character within a given string. Most programming languages provide built-in functions to search for substrings or characters in strings. 
+Searching in strings involves finding a substring or character within a given string. Most programming languages provide built-in functions to search for substrings or characters in strings. 
 
 So from this, will be presented:
     - Searching for a Character in a String
