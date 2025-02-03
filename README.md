@@ -42,8 +42,8 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
     - [Search in Strings](Implementations/Strings/search_strings.cpp)
     - [Naive Algorithms](Implementations/Strings/naive_strings.cpp)
     - [Finite Automata](Implementations/Strings/finite_automata.cpp)
-    - KMP (Karp, Miller and Pratt)
-    - KMR (Karp, Miller and Rosenberg)
+    - [KMP (Karp, Miller and Pratt)](Implementations/Strings/kmp_algo.cpp)
+    - [KMR (Karp, Miller and Rosenberg)](Implementations/Strings/kmr_algo.cpp)
     - Dictionaries
     - Edit Distance
 - Linked Lists
