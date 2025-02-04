@@ -44,35 +44,22 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
     - [Finite Automata](Implementations/Strings/finite_automata.cpp)
     - [KMP (Karp, Miller and Pratt)](Implementations/Strings/kmp_algo.cpp)
     - [KMR (Karp, Miller and Rosenberg)](Implementations/Strings/kmr_algo.cpp)
-    - Dictionaries
-    - Edit Distance
+    - [Dictionaries](Implementations/Strings/dictionaries.cpp)
+    - [Edit Distance](Implementations/Strings/edit_distance.cpp)
 - Linked Lists
-    - Singly Linked List
-        - Insertion Operation
-        - Deletion Operation
-        - Reversal Operation
-    - Doubly Linked List
-        - Insertion Operation
-        - Deletion Operation
-        - Reversal Operation
-    - Circular Linked List
-        - Insertion Operation
-        - Deletion Operation
-        - Reversal Operation
-    - Floyd's Cycle Detection Algorithm
-    - LeetCode Exercises
-        - Linked List Cycle
-        - Reverse Linked List
+    - [Singly Linked List](Implementations/LinkedLists/singly_linked.cpp)
+    - [Doubly Linked List](Implementations/LinkedLists/doubly_linked.cpp)
+    - [Circular Linked List](Implementations/LinkedLists/circular_linked.cpp)
+    - [Floyd's Cycle Detection Algorithm](Implementations/LinkedLists/floyd_algo.cpp)
 - Stack
-    - LIFO Concept
-    - Array Implementation
-    - Linked List Implementation
+    - [LIFO Concept](Implementations/Stack/lifo.cpp)
+    - [Array Implementation](Implementations/Stack/array_imp.cpp)
 - Queue
-    - FIFO Concept
-    - Circular Queue
-    - Deque
-    - Priority Queue
-    - Queue Implementation using two stacks
+    - [FIFO Concept](Implementations/Queue/fifo.cpp)
+    - [Circular Queue](Implementations/Stack/circular_queue.cpp)
+    - [Deque](Implementations/Stack/deque.cpp)
+    - [Priority Queue](Implementations/Stack/priority_queue.cpp)
+    - [Queue Implementation using two stacks](Implementations/Stack/two_stacks.cpp)
 - Heap
     - Min-Heap
     - Max-Heap
