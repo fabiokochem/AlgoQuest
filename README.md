@@ -61,10 +61,10 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
     - [Priority Queue](Implementations/Stack/priority_queue.cpp)
     - [Queue Implementation using two stacks](Implementations/Stack/two_stacks.cpp)
 - Heap
-    - Min-Heap
-    - Max-Heap
-    - Heapify Operation
-    - Binary Heap
+    - [Min-Heap](Implementations/Heaps/minheap.cpp)
+    - [Max-Heap](Implementations/Heaps/maxheap.cpp)
+    - [Heapify Operation](Implementations/Heaps/heapify.cpp)
+    - [Binary Heap](Implementations/Heaps/binary_heap.cpp)
 - Hashing
     - Hash Functions
     - Collision Handling Strategies
