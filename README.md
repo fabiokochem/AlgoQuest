@@ -66,8 +66,7 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
     - [Heapify Operation](Implementations/Heaps/heapify.cpp)
     - [Binary Heap](Implementations/Heaps/binary_heap.cpp)
 - Hashing
-    - Hash Functions
-    - Collision Handling Strategies
+    - [Hash Functions](Implementations/Hashing/hashing.cpp)
 - Binary and Binary Search Tree
     - Binary Trees
     - Complete Binary Trees
