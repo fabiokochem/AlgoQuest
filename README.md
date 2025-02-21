@@ -68,13 +68,11 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
 - Hashing
     - [Hash Functions](Implementations/Hashing/hashing.cpp)
 - Binary and Binary Search Tree
-    - Binary Trees
-    - Complete Binary Trees
-    - Binary Search Trees (BST's)
-    - Traversals
+    - [Binary Trees](Implementations/BinaryTree/binary_tree.cpp)
+    - [Binary Search Trees (BST's)](Implementations/BinaryTree/bst.cpp)
+    - [Traversals](Implementations/BinaryTree/traversals.cpp)
 - AVL Tree
-    - Implementation
-    - Rotations
+    - [Implementation](Implementations/AVLTree/avl_tree.cpp)
 - B and B+ Tree
     - B Tree
     - B+ Tree
