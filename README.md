@@ -129,6 +129,7 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
 
 # References
 
+- [Introduction to Algorithms, Fourth Edition - Thomas Cormen](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
 - [Algorithm Design - Eva Tardos](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
