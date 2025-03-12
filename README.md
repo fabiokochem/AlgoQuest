@@ -117,7 +117,7 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
     - Segment Tree
     - Trie
 - Criptography
-    - MD5
+    - [MD5](Implementations/Criptography/MD5.cpp)
     - SHA-256
     - SHA-512
 - Greedy Algorithms
