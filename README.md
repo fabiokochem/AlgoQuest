@@ -74,58 +74,55 @@ My biggest advice for you, if you want to excel in algorithms, is: stay active o
 - AVL Tree
     - [Implementation](Implementations/AVLTree/avl_tree.cpp)
 - B and B+ Tree
-    - B Tree
-    - B+ Tree
+    - [B Tree](Implementations/BTrees/b_tree.cpp)
+    - [B+ Tree](Implementations/BTrees/bp_tree.cpp)
 - Red Black Tree
-    - Implementation 
+    - [Implementation](Implementations/RedBlackTree/redblack_tree.cpp)
 - Graphs
-    - Adjacency Matrix Implementation
-    - Adjacency List Implementation 
-    - Edge List Representation
-    - Breadth-First Search (BFS)
-    - Depth-First Search (DFS)
-    - Dijkstra's Algorithm
-    - Bellman-Ford Algorithm
-    - Floyd-Warshall Algorithm
-    - Cycle Detection in Undirected Graphs
-    - Cycle Detection in Directed Graphs
-    - Kahn's Algorithm (BFS Approach)
-    - DFS-Based Topological Sort
-    - Kruskal's Algorithm
-    - Prim's Algorithm
-    - Ford-Fulkerson Algorithm
-    - Edmonds-Karp Algorithm
-    - Min-Cut Problem
-    - Connected Components in an Undirected Graph
-    - Kosaraju's Algorithm.
-    - Tarjan's Algorithm.
-    - Articulation Points
-    - Bridges in Graphs
-    - Bipartite Graph Check
-    - Graph Coloring Problem
-    - Eulerian Path and Circuit
-    - Hamiltonian Path and Cycle
-    - Travelling Salesman Problem (TSP)
-    - Shortest Path in a Grid
-    - Shortest Path in a Directed Acyclic Graph (DAG)
-    - Johnson's Algorithm
-    - Union-Find (Disjoint Set Union)
-    - 2-SAT Problem
-    - Graph Isomorphism Check
+    - [Adjacency Matrix Implementation](Implementations/Graphs/adj_matrix.cpp)
+    - [Adjacency List Implementation](Implementations/Graphs/adj_list.cpp)
+    - [Edge List Representation](Implementations/Graphs/edge_list.cpp)
+    - [Breadth-First Search (BFS)](Implementations/Graphs/bfs.cpp)
+    - [Depth-First Search (DFS)](Implementations/Graphs/dfs.cpp)
+    - [Dijkstra's Algorithm](Implementations/Graphs/dijkstra.cpp)
+    - [Bellman-Ford Algorithm](Implementations/Graphs/bellman_ford.cpp)
+    - [Floyd-Warshall Algorithm](Implementations/Graphs/floyd_warshall.cpp)
+    - [Cycle Detection in Undirected Graphs](Implementations/Graphs/cycle_undirected.cpp)
+    - [Cycle Detection in Directed Graphs](Implementations/Graphs/cycle_directed.cpp)
+    - [Kahn's Algorithm (BFS Approach)](Implementations/Graphs/kahn.cpp)
+    - [DFS-Based Topological Sort](Implementations/Graphs/dfs_topological.cpp)
+    - [Kruskal's Algorithm](Implementations/Graphs/kruskal.cpp)
+    - [Prim's Algorithm](Implementations/Graphs/prim.cpp)
+    - [Ford-Fulkerson Algorithm](Implementations/Graphs/ford_fulkerson.cpp)
+    - [Edmonds-Karp Algorithm](Implementations/Graphs/edmonds_karp.cpp)
+    - [Min-Cut Problem](Implementations/Graphs/mincut.cpp)
+    - [Connected Components in an Undirected Graph](Implementations/Graphs/connected_comp.cpp)
+    - [Kosaraju's Algorithm](Implementations/Graphs/kosaraju.cpp)
+    - [Tarjan's Algorithm](Implementations/Graphs/tarjan.cpp)
+    - [Articulation Points](Implementations/Graphs/artic_points.cpp)
+    - [Bridges in Graphs](Implementations/Graphs/bridges.cpp)
+    - [Bipartite Graph Check](Implementations/Graphs/bipartite.cpp)
+    - [Graph Coloring Problem](Implementations/Graphs/graph_coloring.cpp)
+    - [Eulerian Path and Circuit](Implementations/Graphs/eulerian_path_cycle.cpp)
+    - [Hamiltonian Path and Cycle](Implementations/Graphs/hamiltonian_path_cycle.cpp)
+    - [Travelling Salesman Problem (TSP)](Implementations/Graphs/tsp.cpp)
+    - [Shortest Path in a Grid](Implementations/Graphs/shortestpath_grid.cpp)
+    - [Shortest Path in a Directed Acyclic Graph (DAG)](Implementations/Graphs/shortestpath_dag.cpp)
+    - [Union-Find (Disjoint Set Union)](Implementations/Graphs/union_find.cpp)
+    - [2-SAT Problem](Implementations/Graphs/2sat.cpp)
 - Advanced Data Structures
-    - Fenwick Tree
-    - Segment Tree
-    - Trie
+    - [Fenwick Tree](Implementations/ADS/fenwick_tree.cpp)
+    - [Segment Tree](Implementations/ADS/segment_tree.cpp)
+    - [Trie](Implementations/ADS/trie.cpp)
 - Criptography
     - [MD5](Implementations/Criptography/MD5.cpp)
-    - SHA-256
-    - SHA-512
+    - [SHA-256](Implementations/Criptography/SHA256.cpp)
+    - [SHA-512](Implementations/Criptography/SHA512.cpp)
 - Greedy Algorithms
-    - Local optimum strategies for global solutions
+    - [Local optimum strategies for global solutions](Implementations/Greedy/opt_strategies.cpp)
 - Dynamic Programming
-    - Recurrence relations
-    - Overlapping subproblems 
-    - Memoization
+    - [Recurrence relations](Implementations/DynamicProg/recur_relations.cpp)
+    - [Memoization](Implementations/DynamicProg/memoization.cpp)
 
 # References
 
